@@ -1,0 +1,29 @@
+_repo: St.-Martin-s-Summer_2640
+_version: 0.0.1
+alternative_title: Saint Martin's Summer
+creator:
+  author:
+    agent_name: Sabatini, Rafael
+    alias: Sabatini, R.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '640'
+    url: http://www.gutenberg.org/2009/agents/640
+    wikipedia: http://en.wikipedia.org/wiki/Rafael_Sabatini
+description: ''
+gutenberg_issued: '2001-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2640'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'France -- Social life and customs -- Fiction'
+- !lcsh 'Nobility -- France -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: St. Martin's Summer
+url: http://www.gutenberg.org/ebooks/2640

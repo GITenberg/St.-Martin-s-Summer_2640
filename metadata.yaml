@@ -1,6 +1,9 @@
 _repo: St.-Martin-s-Summer_2640
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Saint Martin's Summer
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sabatini, Rafael
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/640
     wikipedia: http://en.wikipedia.org/wiki/Rafael_Sabatini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2640#St.-Martin-s-Summer
 gutenberg_issued: '2001-05-01'
 gutenberg_type: Text
 identifiers:
